@@ -1,10 +1,10 @@
 # WEB102 Prework - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **Jacob Li**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Gaming Funding ** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **15* hours spent in total
 
 ## Required Features
 
